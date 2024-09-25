@@ -1,4 +1,4 @@
-// Write a C program to check whether a given number is odd or even using an if-else statement.
+// Write a program to check whether a given number is odd or even using an if-else statement.
 
 #include <bits/stdc++.h>
 using namespace std;
