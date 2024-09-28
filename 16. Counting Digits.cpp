@@ -12,7 +12,6 @@ void calculate(int n){
     cout << "The number of digits: " << digits << endl;
 }
 
-using namespace std;
 int main(){
     int n;
     cout << "Enter a number: ";
