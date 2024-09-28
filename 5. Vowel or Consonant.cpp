@@ -1,3 +1,5 @@
+// A program to check if a character is a vowel or a consonant using the if-else statement.
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
